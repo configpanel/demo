@@ -2,6 +2,7 @@
   "configpanel": 1,
   "name": "ConfigPanel demo",
   "login": {
+    "method": "get",
     "endpoint": "/login.json",
     "fields": []
   }
