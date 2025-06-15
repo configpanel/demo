@@ -1,6 +1,7 @@
 {
   "configpanel": 1,
   "name": "ConfigPanel demo",
+  "icon": "https://svelte.dev/favicon.png",
   "login": {
     "method": "get",
     "endpoint": "/login.json",
