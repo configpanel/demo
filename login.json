@@ -2,5 +2,6 @@
   "success": true,
   "expires": -1,
   "user": "demo",
-  "endpoint": "/demo.json"
+  "endpoint": "/demo.json",
+  "id": "demo"
 }
