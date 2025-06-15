@@ -1,0 +1,8 @@
+{
+  "configpanel": 1,
+  "name": "ConfigPanel demo",
+  "login": {
+    "endpoint": "/login.json",
+    "fields": []
+  }
+}
