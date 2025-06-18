@@ -1,0 +1,24 @@
+{
+  "info": {
+    "name": "ConfigPanel demo",
+    "icon": "https://armstats.leox.dev/favicon.png"
+  },
+  "user": {
+    "displayName": "Demo",
+    "name": "demo",
+    "avatar": "https://github.com/configpanel.png"
+  },
+  "nav": [
+    {
+      "title": "Users",
+      "url": "/panel/users.json",
+      "icon": "users",
+      "children": [
+        {
+          "url": "/panel/users/banned.json",
+          "title": "Banned"
+        }
+      ]
+    }
+  ]
+}
