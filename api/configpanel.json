@@ -1,7 +1,6 @@
 {
   "configpanel": 1,
   "name": "ConfigPanel demo",
-  "icon": "https://svelte-sonner.vercel.app/favicon.png",
   "credentials": false,
   "login": {
     "method": "get",
