@@ -1,0 +1,10 @@
+{
+  "configpanel": 1,
+  "name": "[B] ConfigPanel demo",
+  "credentials": false,
+  "login": {
+    "method": "get",
+    "endpoint": "/multiple/login/b.json",
+    "fields": []
+  }
+}
