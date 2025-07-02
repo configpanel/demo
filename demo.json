@@ -1,12 +1,13 @@
 {
-  "info": {
-    "name": "ConfigPanel demo",
-    "icon": "https://armstats.leox.dev/favicon.png"
-  },
   "user": {
     "displayName": "Demo",
     "name": "demo",
     "avatar": "https://github.com/configpanel.png"
+  },
+  "home": {
+    "title": "Home",
+    "url": "/panel/home.json",
+    "icon": "house"
   },
   "nav": [
     {
