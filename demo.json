@@ -12,11 +12,13 @@
   "nav": [
     {
       "title": "Users",
+      "id": "users",
       "url": "/panel/users.json",
       "icon": "users",
       "children": [
         {
           "url": "/panel/users/banned.json",
+          "id": "banned"
           "title": "Banned"
         }
       ]
