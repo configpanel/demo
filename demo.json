@@ -27,7 +27,7 @@
           "children": [
             {
               "url": "/panel/users/banned.json",
-              "id": "banned",
+              "id": "users/banned",
               "title": "Banned"
             }
           ]
