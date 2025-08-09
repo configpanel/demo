@@ -11,6 +11,12 @@
   },
   "nav": [
     {
+      "title": "GitHub",
+      "id": "github",
+      "icon": "logo:github",
+      "url": "/panel/home.json"
+    },
+    {
       "title": "User Management",
       "children": [
         {
